@@ -49,25 +49,32 @@ Welcome to the CLI Based Note Taking App! This is a simple command-line interfac
 Here are some screenshots demonstrating how to use the app:
 
 1. Register a new user:
+
    ![Register](./screenshots/register.png)
 
 2. Login with the registered user:
+
    ![Login](./screenshots/login.png)
 
 3. Create a new note:
+
    ![Create Note](./screenshots/create%20note.png)
 
 4. Read a note:
+
    ![Read Note](./screenshots/read%20single%20note.png)
 
 5. Read all notes:
+
    ![Read All Notes](./screenshots/read%20all%20notes.png)
 
 6. Update a note:
+
    ![Update Note](./screenshots/update%20note%20part%201.png)
    ![Update Note](./screenshots/update%20note%20part%202.png)
 
 7. Delete a note:
+
    ![Delete Note](./screenshots/delete%20note%20part%201.png)
    ![Delete Note](./screenshots/delete%20note%20part%202.png)
 
